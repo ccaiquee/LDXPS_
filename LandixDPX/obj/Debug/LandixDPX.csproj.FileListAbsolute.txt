@@ -1,0 +1,12 @@
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.csprojAssemblyReference.cache
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.Properties.Resources.resources
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.csproj.GenerateResource.cache
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.csproj.CoreCompileInputs.cache
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\bin\Debug\LandixDPX.exe.config
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\bin\Debug\LandixDPX.exe
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\bin\Debug\LandixDPX.pdb
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.exe
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.pdb
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.Home.resources
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.CadastroVendedores.resources
+C:\Users\PokerT\Pictures\CRIANDO\LandixDPX\LandixDPX\obj\Debug\LandixDPX.CadastroClientes.resources
